@@ -343,7 +343,6 @@ a {
     position: absolute;
     top: -6px;
     right: 5%;
-
 }
 
 @media screen and (min-width: 1024px) {
@@ -362,4 +361,21 @@ a {
     .plan__description {
         font-size: 1.7rem;
     }
+}
+
+/* Media */
+.media {
+  display: flex;
+}
+
+.media__title {
+  margin-top: 0;
+}
+
+.media__body {
+  margin: 0 2rem;
+}
+
+.media__image {
+  margin-top: 1rem;
 }
