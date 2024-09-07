@@ -2,7 +2,6 @@
   "name": "moshify",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -10,7 +9,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "parcel": "^2.12.0",
-    "parcel-bundler": "^1.12.5"
+    "parcel": "^2.12.0"
   }
 }
